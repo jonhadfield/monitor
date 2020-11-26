@@ -1,27 +1,27 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 57
+    "name": "O2 Portal",
+    "url": "https://www.o2.com",
+    "slug": "o2-portal",
+    "status": "down",
+    "uptime": "20.69%",
+    "time": 0
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "O2 Shop",
+    "url": "https://www.o2.co.uk/shop/brand/apple",
+    "slug": "o2-shop",
     "status": "up",
     "uptime": "100.00%",
-    "time": 36
+    "time": 1581
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "O2 Accounts",
+    "url": "https://accounts.o2.co.uk/signin",
+    "slug": "o2-accounts",
     "status": "up",
     "uptime": "100.00%",
-    "time": 339
+    "time": 829
   },
   {
     "name": "Broken Site",
@@ -36,7 +36,7 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "100.00%",
+    "uptime": "99.98%",
     "time": 0
   }
 ]
