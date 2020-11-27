@@ -4,7 +4,7 @@
     "url": "https://www.o2.com",
     "slug": "o2-portal",
     "status": "down",
-    "uptime": "12.16%",
+    "uptime": "0.03%",
     "time": 0
   },
   {
@@ -13,7 +13,7 @@
     "slug": "o2-shop",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1581
+    "time": 1258
   },
   {
     "name": "O2 Accounts",
@@ -21,7 +21,7 @@
     "slug": "o2-accounts",
     "status": "up",
     "uptime": "100.00%",
-    "time": 829
+    "time": 729
   },
   {
     "name": "Broken Site",
@@ -36,7 +36,7 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "99.98%",
+    "uptime": "99.86%",
     "time": 0
   }
 ]
