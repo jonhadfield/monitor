@@ -13,7 +13,7 @@
     "slug": "o2-shop",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1300
+    "time": 1271
   },
   {
     "name": "O2 Accounts",
@@ -21,7 +21,7 @@
     "slug": "o2-accounts",
     "status": "up",
     "uptime": "100.00%",
-    "time": 607
+    "time": 594
   },
   {
     "name": "Broken Site",
@@ -36,7 +36,7 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "97.17%",
+    "uptime": "96.31%",
     "time": 0
   }
 ]
