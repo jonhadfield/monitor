@@ -11,9 +11,9 @@
     "name": "O2 Shop",
     "url": "https://www.o2.co.uk/shop/brand/apple",
     "slug": "o2-shop",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 1177
+    "status": "up",
+    "uptime": "99.51%",
+    "time": 1160
   },
   {
     "name": "O2 Accounts",
@@ -36,7 +36,7 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "96.27%",
+    "uptime": "96.25%",
     "time": 0
   }
 ]
