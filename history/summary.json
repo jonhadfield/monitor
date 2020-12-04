@@ -5,15 +5,31 @@
     "slug": "o2-portal",
     "status": "down",
     "uptime": "0.00%",
-    "time": 0
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0
   },
   {
     "name": "O2 Shop",
     "url": "https://www.o2.co.uk/shop/brand/apple",
     "slug": "o2-shop",
     "status": "up",
-    "uptime": "99.20%",
-    "time": 1281
+    "uptime": "99.31%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
+    "time": 1249,
+    "timeDay": 868,
+    "timeWeek": 1248,
+    "timeMonth": 1249,
+    "timeYear": 1249
   },
   {
     "name": "O2 Accounts",
@@ -21,7 +37,15 @@
     "slug": "o2-accounts",
     "status": "up",
     "uptime": "100.00%",
-    "time": 586
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 582,
+    "timeDay": 550,
+    "timeWeek": 540,
+    "timeMonth": 582,
+    "timeYear": 582
   },
   {
     "name": "Broken Site",
@@ -29,14 +53,30 @@
     "slug": "broken-site",
     "status": "down",
     "uptime": "100.00%",
-    "time": 0
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "94.63%",
-    "time": 0
+    "uptime": "93.81%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "76.49%",
+    "uptimeYear": "93.81%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0
   }
 ]
