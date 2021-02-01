@@ -1,7 +1,7 @@
 url: https://accounts.o2.co.uk/signin
-status: down
-code: 503
-responseTime: 449
-lastUpdated: 2021-01-31T23:12:37.899Z
+status: up
+code: 200
+responseTime: 814
+lastUpdated: 2021-02-01T01:12:24.450Z
 startTime: Thu Nov 26 2020 20:55:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
